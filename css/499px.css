@@ -1,0 +1,35 @@
+#logo {
+    height: 75px;
+    width: 75px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 18.72px;
+}
+
+#deskPhoto {
+margin-bottom: 3px;
+}
+
+#featuredTitle {
+    margin-top: 47px;
+margin-bottom: 11px;
+}
+
+.featuredImage {
+    width: 325px;
+    height: 195px;
+    justify-content: normal; 
+}
+
+.creditText {
+font-size: 13.25px;
+}

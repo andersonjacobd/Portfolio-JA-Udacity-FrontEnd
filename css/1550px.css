@@ -1,0 +1,27 @@
+body {
+    width: 1550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+#logo {
+    height: 150px;
+    width: 150px;
+}
+
+
+#deskPhoto {
+margin-bottom: 8px;
+}
+
+.creditText {
+font-size: 15px;
+}
