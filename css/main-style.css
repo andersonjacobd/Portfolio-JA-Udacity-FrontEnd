@@ -69,6 +69,11 @@ h6 {
   border-top: 6px solid #c5cbe3;
 }
 
+#greeting {
+  text-align: center;
+  font-size: 16px;
+}
+
 #desk-photo {
   background-size: cover;
   background-repeat: no-repeat;
@@ -125,6 +130,10 @@ h6 {
     width: 75px;
   }
 
+  #greeting {
+    font-size: 18px;
+  }
+
   #desk-photo {
     margin-bottom: 4px;
   }
@@ -157,6 +166,10 @@ h6 {
     height: 100px;
   }
 
+  #greeting {
+    font-size: 20px;
+  }
+
   #desk-image {
     width: 100%;
     max-width: 1550px;
@@ -184,11 +197,6 @@ h6 {
 }
 
 @media only screen and (min-width: 1024px) {
-  #logo {
-    height: 125px;
-    width: 125px;
-  }
-
   h1 {
     font-size: 55px;
   }
@@ -199,6 +207,15 @@ h6 {
 
   h3 {
     font-size: 34px;
+  }
+
+  #greeting {
+    font-size: 24px;
+  }
+
+  #logo {
+    height: 125px;
+    width: 125px;
   }
 
   .credit-text {
@@ -224,6 +241,10 @@ h6 {
   #logo {
     height: 150px;
     width: 150px;
+  }
+
+  #greeting {
+    font-size: 26px;
   }
 
   .credit-text {
